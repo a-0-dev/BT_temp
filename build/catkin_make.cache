@@ -1,0 +1,2 @@
+ROS-Behavior-Tree/behavior_tree:ROS-Behavior-Tree/behavior_tree_core:ROS-Behavior-Tree/behavior_tree_leaves:behavior_trees:test
+-DCATKIN_DEVEL_PREFIX=/home/hoebler/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hoebler/catkin_ws/install -G Unix Makefiles
